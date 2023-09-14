@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... flight controls
 - 🌱 I’m currently learning ... pixhauk
 - 💞️ I’m looking to collaborate on ...my team 
-- 📫 How to reach me ...
+- 📫 prathap.devendran@killisbird.com
 
 <!---
 prathapjaga/prathapjaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
