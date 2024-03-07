@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathapjaga
 - 👀 I’m interested in ... flight controls
-- 🌱 I’m currently learning ... pixhauk
+- 🌱 I’m currently learning ... PX4,Ardupilot,INAV
 - 💞️ I’m looking to collaborate on ...my team 
 - 📫 prathap.devendran@killisbird.com
 
