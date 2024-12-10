@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=2368c8&lines=Olá,+eu+sou+o+Prathap+Devendran;Flight-controls+system+Developer💻;Github+🤖" alt="Typing SVG">
+    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=2368c8&lines=DR+Prathap+Devendran;,+Flight-controls+system+Developer💻;Github+🤖" alt="Typing SVG">
   </a>
 </div>
 
