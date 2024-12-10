@@ -16,15 +16,15 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center" >
      
-  ![ Prathap GitHub ](https://github-readme-stats.vercel.app/api?username=prathapjaga/prathapjaga&show_icons=true&theme=bear&background=000&border=30A3DC&dates=FFF)
+  ![ Prathap GitHub ](https://github-readme-stats.vercel.app/api?username=prathapkillis10005/prathapjaga&show_icons=true&theme=bear&background=000&border=30A3DC&dates=FFF)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathapjaga/prathapjaga&layout=compact&show_icons=true&theme=bear&background=000&border=30A3DC&dates=FFF)](https://github.com/prathapjaga/prathapjaga)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathapkillis10005/prathapjaga&layout=compact&show_icons=true&theme=bear&background=000&border=30A3DC&dates=FFF)](https://github.com/prathapkillis10005/prathapjaga)
 
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=prathapjaga/prathapjaga&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=prathapkillis10005/prathapjaga&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 </div>
 
@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathapjaga/prathapjaga/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathapjaga/prathapjaga/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/prathapjaga/prathapjaga/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathapkillis10005/prathapjaga/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathapkillis10005/prathapjaga/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/prathapkillis10005/prathapjaga/github-contribution-grid-snake.svg">
   </picture>
 </div>
 <br>
