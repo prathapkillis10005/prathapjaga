@@ -50,3 +50,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <a href="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Chennai" target="_blank">Spot the Station - Chennai, India</a>
 </div>
+<div align="center">
+  <a href="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Bengaluru" target="_blank">Spot the Station - Bengaluru, India</a>
+</div>
