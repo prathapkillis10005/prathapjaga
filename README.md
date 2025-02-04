@@ -39,12 +39,13 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 <div align="center">
-  <iframe src="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Chennai" 
+  <!----- <iframe src="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Chennai" 
           width="300" 
           height="400" 
           frameborder="0" 
           scrolling="no">
-  </iframe>
+  </iframe> 
+  ---->
 </div>
 <div align="center">
   <a href="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Chennai" target="_blank">Spot the Station - Chennai, India</a>
