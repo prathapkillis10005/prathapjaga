@@ -38,6 +38,14 @@ You can click the Preview link to take a look at your changes.
   </picture>
 </div>
 <br>
-<br>
-<div style='display:inline-block; border: 1px solid #CCC; border-radius: 6px; -webkit-border-radius: 6px; -o-border-radius: 6px; position: relative; overflow: hidden; width: 310px; height: 450px;'> <iframe src='https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Chennai' width='310' height='450' frameborder='0' ></iframe></div>
-<br>
+<div align="center">
+  <iframe src="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Chennai" 
+          width="300" 
+          height="400" 
+          frameborder="0" 
+          scrolling="no">
+  </iframe>
+</div>
+<div align="center">
+  <a href="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Chennai" target="_blank">Spot the Station - Chennai, India</a>
+</div>
