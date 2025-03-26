@@ -53,3 +53,5 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <a href="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Bengaluru" target="_blank">Spot the Station - Bengaluru, India</a>
 </div>
+
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=prathap-d-57836816a
