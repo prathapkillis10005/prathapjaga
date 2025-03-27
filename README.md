@@ -53,6 +53,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <a href="https://spotthestation.nasa.gov/widget/widget.cfm?country=India&region=None&city=Bengaluru" target="_blank">Spot the Station - Bengaluru, India</a>
 </div>
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata:Metadata xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:metadata="http://www.polarsys.org/kitalpha/ad/metadata/1.0.0" id="_ccPJQO0UEe-CPv9FuNVhOw">
+  <viewpointReferences id="_ccYTMO0UEe-CPv9FuNVhOw" vpId="org.polarsys.capella.core.viewpoint" version="7.0.0"/>
+</metadata:Metadata>
 
 
     
